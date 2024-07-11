@@ -1,0 +1,7 @@
+# Project exclude paths
+/accounts/target/
+/cards/target/
+/configserver/target/
+/gatewayserver/target/
+/loans/target/
+/message/target/
