@@ -5,3 +5,5 @@
 /gatewayserver/target/
 /loans/target/
 /message/target/
+.idea*
+*.iml
